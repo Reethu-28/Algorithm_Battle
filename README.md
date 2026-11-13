@@ -141,5 +141,3 @@ Algorithm_Battle_Submission/
 
 ## GitHub repository
 https://github.com/Reethu-28/Algorithm_Battle.git
-
-The repository URL is provided as requested. The updated local files in this ZIP should be pushed to the GitHub repository to update its online contents.
